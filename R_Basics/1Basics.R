@@ -31,7 +31,18 @@ class(x)
 print(as.character(x))
 print(as.numeric(x))
 print(as.logical(x))
-print(as.integer(y))
+print(as.integer(y)) 
+
+
+# Saving type casted value in another variable
+c <- 5
+class(c)
+
+int_c <- as.integer(c)
+class(int_c)
+
+char_c <- as.character(int_c)
+class(char_c)
 
 
 # Order of Operators
@@ -42,3 +53,4 @@ print(as.integer(y))
 string <- "My name is Kashif Maqbool"
 string
 class(string)
+as.numeric(string) #This will generate an error.
