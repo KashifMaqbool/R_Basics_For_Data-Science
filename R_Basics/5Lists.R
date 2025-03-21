@@ -13,8 +13,13 @@ named_movie_list <- list(name = "Shaheen",
                          type = c("Action", "Adventure"))
 named_movie_list
 
+# The function class() returns the type of a object.
+class(named_movie_list$year)
+
+
 # Accessing named lists
 named_movie_list$type
+named_movie_list$type[2]
 named_movie_list$name
 
 # Adding new value in named list
@@ -31,6 +36,11 @@ named_movie_list["age"] <- NULL
 named_movie_list$age
 named_movie_list
 
+# Concatenating lists
+named_movie_list1 <- list(number = "12345trwg")
+named_movie_list1
+Concat_list <- c(named_movie_list, named_movie_list1)
+Concat_list
 
 
 
