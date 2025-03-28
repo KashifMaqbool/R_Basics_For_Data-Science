@@ -8,6 +8,7 @@ This repository contains all the learning materials, R scripts, and Jupyter note
 ✅ Control program flow with conditions and loops, write functions, handle errors, and perform character string operations.
 ✅ Construct and manipulate R data structures, including **vectors, factors, lists, and data frames**.
 ✅ Read, write, and save data files and scrape web pages using R.
+✅ Data visualization using tidyverse or ggplot.
 
 ## 📂 Repository Structure
 ```
@@ -20,6 +21,7 @@ This repository contains all the learning materials, R scripts, and Jupyter note
  ┃ ┣ 📜 basic_operations.R
  ┃ ┣ 📜 control_structures.R
  ┃ ┣ 📜 data_structures.R
+ ┃ ┣ 📜 data_visualiztion.R
  ┣ 📜 README.md
 ```
 
