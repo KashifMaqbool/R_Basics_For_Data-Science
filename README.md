@@ -51,3 +51,12 @@ Feel free to contribute by adding new examples, refining explanations, or optimi
 
 ## 📜 License
 This repository is open-source.
+
+## 🙌 Author
+KASHIF MAQBOOL JOIYA
+🎓 Data Analyst & Data Scientist | Aspiring AI Engineer
+💻 Passionate about Open Source, Data Science, Big Data, and AI Systems
+
+🌐 Connect with me:
+GitHub
+LinkedIn
